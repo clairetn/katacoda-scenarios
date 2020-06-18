@@ -2,9 +2,8 @@
 Unix IFB lesson
 
 This IFB lesson aims at helping beginers to realise their first steps in unix universe. 
-Access to the script of the scenario : https://github.com/clairetn/katacoda-scenarios.git
-Access to the course by the way of katacoda palteforme :
-
+Access to the script of the course scenario : https://github.com/clairetn/katacoda-scenarios.git
+Access to the course by the way of katacoda palteforme : https://www.katacoda.com/clairetn/scenarios/trial_1
 
 ## index.json
 The file _index.json_ contains all the information about the scenario. It has the title, description and a heading for each step.
