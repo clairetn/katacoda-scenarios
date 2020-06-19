@@ -27,7 +27,7 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "uilayout": "bash"
   },
   "backend": {
     "imageid": "ubuntu1804"
