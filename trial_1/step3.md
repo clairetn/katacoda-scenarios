@@ -1,6 +1,4 @@
-Step3: Move in file tree
-
-## Task
+## Go into the folder
 
 To find the file _text1.txt_, we are going to move in the directory _class1_ with the command **cd** (change directory):
 

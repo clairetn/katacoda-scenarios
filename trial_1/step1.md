@@ -1,10 +1,8 @@
-Step 1: File list
-
 ## Note 
 
 During the course, some bash language commands will be explained. They will be written in **bold** and must be copied identically in the right window. Their parameters will be written in _italics_. Their text or value can be modified if you wish, but you will have to remember the changes afterwards. We therefore advise you to keep the text or value proposed in the example.
 
-## Task
+## File
 
 In computer information are stored into files. 
 To see present files, run the command **ls** (list):
