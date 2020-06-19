@@ -16,15 +16,7 @@
       {
       "title": "Step 3 - Move in file tree",
       "text": "step3.md"
-      },
-      {
-      "title": "Step 4 - File copy",
-      "text": "step4.md"
-      },   
-      {
-      "title": "Step 5 - Act remotly",
-      "text": "step5.md"
-      } 
+      }
     ],
     "intro": {
       "text": "intro.md",
