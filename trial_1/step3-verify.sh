@@ -2,11 +2,11 @@
 
 ## Checking commands
 verify() {
-  current_pwd = `pwd` 
+  current_pwd=`pwd` 
   echo $current_pwd
-  if [ $current_pwd != "class1" ]
+  if [ ${current_pwd} == "/root/class1" ]
   then
-    echo "rep ok"
+    exit 0
   fi
 }
 
@@ -15,3 +15,5 @@ verify
 ## Wait for possible file update and try again
 sleep 3
 verify
+
+exit 0
