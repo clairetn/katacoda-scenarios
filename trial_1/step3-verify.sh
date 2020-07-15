@@ -3,6 +3,7 @@
 ## Checking commands
 verify() {
   current_pwd = `pwd` 
+  echo $current_pwd
   if [ $current_pwd != "class1" ]
   then
     echo "rep ok"
