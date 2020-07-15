@@ -5,7 +5,7 @@ With the **mkdir** (make file) command we create a folder named _class1_:
 
 `mkdir class1`{{execute}}
 
-This command reply nothing but it create a folder. To see this folder, we use the command that list files we saw in previous step, **ls**:
+This command reply nothing but it creates a folder named _class1_. To see this folder, we use the command that list files we saw in previous step, **ls**:
 
 `ls`{{execute}}
 

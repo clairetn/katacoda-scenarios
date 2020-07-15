@@ -3,9 +3,9 @@
 ## Checking commands
 verify() {
   current_pwd = `pwd` 
-  if [ current_pwd != "class1" ]
+  if [ $current_pwd != "class1" ]
   then
-    echo "Mon fichier existe"
+    echo "rep ok"
   fi
 }
 
