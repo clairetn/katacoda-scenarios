@@ -26,3 +26,8 @@ Interested in metrics, private repositories and environments for classroom teach
 
 ## Interactive Developer Portals
 Want to take your scenarios to the next level? Visit https://katacoda.com/embed
+
+## md syntax for quizz in katacoda couses
+https://katacoda.com/scenario-examples/scenarios/quiz
+
+Exploring Katacoda with Ben Hall: Simple tool to help you learn to work with Azure: https://www.youtube.com/watch?v=vxx3To3m2j4
