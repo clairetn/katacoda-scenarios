@@ -21,3 +21,8 @@ To see the result, run one again the **ls** command:
 
 The _text1.txt_ file seems to have disappear but it is in fact in the _class1_ folder.
 
+## Look at the folder architecture
+
+The **tree** command gives a representation of the tree structure of the files:
+
+`tree`{{execute}}
