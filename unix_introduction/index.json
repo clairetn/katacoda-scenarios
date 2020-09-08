@@ -7,8 +7,7 @@
     "steps": [
       {
       "title": "Step shell presentation",
-      "text": "step-shell.md",
-      "answer": "step-shell-answer.md"
+      "text": "step-shell.md"
       },
       {
       "title": "Step adding files",
