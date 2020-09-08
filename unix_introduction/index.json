@@ -1,0 +1,36 @@
+{
+  "title": "Unix: Manipulating files and directories",
+  "description": "First steps",
+  "difficulty": "beginner",
+  "time": "10 minutes",
+  "details": {
+    "steps": [
+      {
+      "title": "Step: shell presentation",
+      "text": "step-shell.md",
+      "answer": "step-shell-answer.md"
+      },
+      {
+      "title": "Step: adding files",
+      "text": "step-get_data.md",
+      }
+      {
+      "title": "Step: the list files command",
+      "text": "step-ls.md",
+      }
+    ],
+    "intro": {
+      "text": "welcome.md",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu1804"
+  }
+}
