@@ -1,6 +1,6 @@
 {
   "title": "Unix, Manipulating files and directories",
-  "description": "First steps",
+  "description": "First unix steps",
   "difficulty": "beginner",
   "time": "10 minutes",
   "details": {
@@ -12,11 +12,11 @@
       },
       {
       "title": "Step adding files",
-      "text": "step-getData.md",
-      }
+      "text": "step-getData.md"
+      },
       {
       "title": "Step the list files command",
-      "text": "step-ls.md",
+      "text": "step-ls.md"
       }
     ],
     "intro": {
