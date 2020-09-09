@@ -6,15 +6,19 @@
   "details": {
     "steps": [
       {
-      "title": "Step shell presentation",
+      "title": "Step: shell presentation",
       "text": "step-shell.md"
       },
       {
-      "title": "Step adding files",
+      "title": "Step: getting information about command",
+      "text": "step-man.md"
+      },
+      {
+      "title": "Step: adding files",
       "text": "step-getData.md"
       },
       {
-      "title": "Step the list files command",
+      "title": "Step: the list files command",
       "text": "step-ls.md"
       }
     ],
