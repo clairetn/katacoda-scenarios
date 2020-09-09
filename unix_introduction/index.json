@@ -6,19 +6,19 @@
   "details": {
     "steps": [
       {
-      "title": "Step: shell presentation",
+      "title": "Shell presentation",
       "text": "step-shell.md"
       },
       {
-      "title": "Step: getting information about command",
+      "title": "Getting information about command: man command",
       "text": "step-man.md"
       },
       {
-      "title": "Step: adding files",
+      "title": "Downloading files: wget and tar commands",
       "text": "step-getData.md"
       },
       {
-      "title": "Step: the list files command",
+      "title": "list files: ls command",
       "text": "step-ls.md"
       }
     ],
