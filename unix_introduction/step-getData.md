@@ -5,14 +5,14 @@ We will download data files for the lesson. Data files are allowed through world
 
 The command to download from an URL link is **wget**. You can read its help with:
 
-`man wget`{{execute}}
+`man wget`
 
 We download data with:
 
 `wget -O data.tar.gz https://zenodo.org/record/3997237/files/FAIR_Bioinfo_data.tar.gz?download=1`{{execute}}
 
 Now we have a file in our directory and we check it with the **ls** command:
-`ls`{{execute}}
+`ls`
 
 We see the file we have juste downloaded, nammed _data.tar.gz_.
 
@@ -24,6 +24,6 @@ We now decompress (_-z_ argument) the _data.tar.gz_ (_-f_ argument) and extract 
 
 `tar -xzf data.tar.gz`{{execute}}
 
-Here we have associate all arguments with an unique - (being careful to put the -f at the end because this argument needs the filename as a value) or but we could also have used a - for each argument (e.g. `tar -x -z -f data.tar.gz`).
+Here we have associate all arguments with an unique - (being careful to put the -f at the end because this argument needs the filename as a value) but we could also have used a - for each argument (e.g. `tar -x -z -f data.tar.gz`).
 
 This command line extracts files from the archive and now we have more than one file in our directory.

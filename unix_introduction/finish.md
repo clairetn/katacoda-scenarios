@@ -1,1 +1,1 @@
-You've completed your first Katacoda scenario!
+You've completed the **Unix, Manipulating files and directories** scenario!

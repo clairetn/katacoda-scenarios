@@ -1,5 +1,4 @@
 
-## Getting information about commands: man
 
 The basic building block of an instruction is the command. A command performs a task (open a file, select some lines, align reads, ...). Generally speaking, an instruction in the terminal always starts with the name of a command. For instance the **man** command can be used to get the manual for the commands installed by default on the computer. The man command is most generally used using a single argument which corresponds to the command one wants to get information about. For instance, to get information about the **ls** (**l**i**s**t) just write the instruction below. 
 

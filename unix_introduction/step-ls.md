@@ -1,4 +1,3 @@
-# List files and folders: ls command
 
 ## List files and folders in the current working directory
 `ls`{{execute}}
