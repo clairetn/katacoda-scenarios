@@ -14,6 +14,8 @@ The **tree** command gives a representation of the tree structure of the files:
 
 
 
+# titre niveau 1
+
 ## titre niveau 2
 
 ### titre niveau 3
@@ -22,4 +24,18 @@ The **tree** command gives a representation of the tree structure of the files:
 
 et texte.
 
+
+## Quizz
+
+
+>>Q3: Multiple Choice <<
+[*] Correct
+[*] Correct
+[ ] Incorrect
+
+Q4 is a single choice where users must select the correct answer.
+
+>>Q4: Single Choice <<
+(*) Correct
+( ) Incorrect
 
