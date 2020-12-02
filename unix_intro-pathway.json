@@ -1,0 +1,18 @@
+{
+    "title": "Katacoda pathway examples",
+    "description": "How to use pathway",
+    "icon": "fa-katacoda",
+    "courses": [
+      {
+        "course_id": "unix_introduction",
+        "title": "Scenario with Terminal UI",
+        "description": "Katacoda Scenario Example"
+      },
+      {
+        "title": "IFB v0",
+        "description": "Learn how to add the Visualise Tab",
+        "pathway_id": "scenario-examples",
+        "course_id": "unix_intro_ifb"
+      }
+    ]
+  }
