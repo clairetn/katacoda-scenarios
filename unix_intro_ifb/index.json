@@ -1,0 +1,48 @@
+{
+  "title": "Unix, Manipulating files and directories",
+  "description": "First unix steps",
+  "difficulty": "beginner",
+  "time": "10 minutes",
+  "details": {
+    "steps": [
+      {
+      "title": "Unix & Command lines",
+      "text": "step-Linux_vs_Unix.md"
+      },
+      {
+      "title": "Computer_interfaces",
+      "text": "step-Computer_interfaces.md"
+      },
+      {
+      "title": "Getting_help",
+      "text": "step-Getting_help.md"
+      },
+      {
+      "title": "The_terminal",
+      "text": "step-The_terminal.md"
+      },
+      {
+      "title": "Command_arguments",
+      "text": "step-Command_arguments.md"
+      },
+      {
+      "title": "The_command_line_interface_Shell",
+      "text": "step-The_command_line_interface_Shell.md"
+      }
+    ],
+    "intro": {
+      "text": "welcome.md",
+      "courseData": "intro-background.sh",
+      "credits": ""
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": "terminal"
+  },
+  "backend": {
+    "imageid": "ubuntu"
+  }
+}
