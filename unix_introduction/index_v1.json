@@ -20,10 +20,6 @@
       {
       "title": "list files: ls command",
       "text": "step-ls.md"
-      },
-      {
-      "title": "some points on Katacoda syntax",
-      "text": "step-katacoda_syntax.md"
       }
     ],
     "intro": {
