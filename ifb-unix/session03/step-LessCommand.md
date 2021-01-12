@@ -9,16 +9,16 @@ The `less` command allows you to open a file and browse its content interactivel
 
 Once in *less*, you can use the following keys to navigate into the file:
 
-- return : go down one line
-- space : go down one page
-- b : go up one page
-- g : go to the beginning of file
-- G : go to the end of file
+- **enter** : go down one line
+- **space** : go down one page
+- **b** : go up one page
+- **g** : go to the beginning of file
+- **G** : go to the end of file
 
-You can also search through the file you opened with `less` by typing “/” followed by the characters you want to search and then pressing “enter”. 
+You can also search through the file you opened with `less` by typing **/* followed by the characters you want to search and then pressing **enter*. 
 The screen will jump to the first occurrence of the searched item which will be highlighted.
-Pressing “n” will bring you to the next occurence. 
+Pressing **n** will bring you to the next occurence. 
 Proceeding that way will search forward into the file. 
-To search backwards, you need to use “?” instead of “/” and then proceed similarly.
-Use “q” to quit the *less* command.
+To search backwards, you need to use **?** instead of **/** and then proceed similarly.
+Use **q** to quit the *less* command.
 
