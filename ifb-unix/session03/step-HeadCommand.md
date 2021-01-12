@@ -14,7 +14,7 @@ You can modulate the number of lines shown with the option _-n_:
 will show you the first 15 lines.
 
 
->> Print the first line of the _bidule.fasta_ file. Choose the right answer:
+>> Print the first line of the _bidule.fasta_ file. Choose the right answer: <<
 ( ) aaa
 (*) ici
 ( ) aaa

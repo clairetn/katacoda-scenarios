@@ -8,7 +8,7 @@ For instance:
 
 `grep nom_gene beautifulFriendLong.bed`
 
->>Print the line that contains the XYZ gene name in the file beautifulFriendLong.bed ?
+>> Print the line that contains the XYZ gene name in the file beautifulFriendLong.bed? <<
 ( ) aaa
 ( ) aaa
 (*) ici
@@ -25,7 +25,7 @@ To count the number of lines containing the ABC gene name, just add the `-c` opt
 
 `grep -c ABC beautifulFriendLong.bed`
 
->>Count the number of lines containing the DEF gene name ?
+>> Count the number of lines containing the DEF gene name? <<
 ( ) aaa
 ( ) aaa
 (*) ici

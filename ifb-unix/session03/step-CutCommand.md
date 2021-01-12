@@ -21,7 +21,7 @@ You can change delimiter between fields with the option _-d_ of the `cut` comman
 Look at the begining of the `*.csv` file (try `head *.csv`). 
 It contains XXth columns, separated by a comma.
 
->>Choose the rigth command(s) to extract the 3rd, 6th, and 7th columns of the *.csv file with the `cut` command:
+>> Choose the rigth command(s) to extract the 3rd, 6th, and 7th columns of the *.csv file with the `cut` command: <<
 [ ] cut -f 3,6,7 *.csv
 [ ] cut -f 3,6-7 *.csv
 [*] cut -f 3,6,7 -t "," *.csv
