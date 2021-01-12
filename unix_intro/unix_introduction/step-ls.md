@@ -12,7 +12,8 @@ The **tree** command gives a representation of the tree structure of the files:
 
 `tree`{{execute}}
 
-
+Une image : 
+![absolute and relative paths](./assets/absolute_and_relative_paths.png)
 
 # titre niveau 1
 
