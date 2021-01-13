@@ -2,9 +2,9 @@
 ### The man command
 The `man` command can be used to get the manual for the commands installed by default on the computer.
 
-It takes a command as a parameter and opens the manual on the terminal in which you can browse: use the <kdb>up</kdb> and <kdb>down</kdb> keys to move up and down and the <kdb>q</kdb> key to exit the manual.
+It takes a command as a parameter and opens the manual on the terminal in which you can browse: use the <kbd>up</kbd> and <kbd>down</kbd> keys to move up and down and the <kbd>q</kbd> key to exit the manual.
 
-Lets try:
+Lets try and type:
 
 `man ls`
 
@@ -28,7 +28,7 @@ Indeed when no options are provided, the `ls` command will simply display the na
 FILE is also optional but one may also be interested to list a particular folder (e.g. `Data`) as we did in the previous step.
 
 
-The DESCRIPTION section explains all the options associated to the command.
+And the DESCRIPTION section explains all the options associated to the command.
 
 >> What is the meaning of the option `-l` of the `ls` command?<<
 ( ) list directory contents
