@@ -1,4 +1,3 @@
-### the *ls* command
 
 A basic but very useful command is `ls`, that’s **l**i**s**t content of a directory.
 On your Linux terminal on the right, type `ls` and then press <kbd>enter</kbd>.
@@ -34,26 +33,23 @@ We can also combine this 2 short form options:
 `ls -sh Data`
 
 >> Among the following proposals, which give the same answer? <<
-[*] `ls -s -h Data`{{execute}}
-[*] `ls -sh Data`{{execute}}
-[ ] `ls -size -h Data`{{execute}}
-[*] `ls --size -h Data`{{execute}}
-[*] `ls --sizeh Data`{{execute}}
-[*] `ls -h -s Data`{{execute}}
-[*] `ls -hs Data`{{execute}}
-[ ] `ls -hsize Data`{{execute}}
+[*] `ls -s -h Data`
+[*] `ls -sh Data`
+[ ] `ls -size -h Data`
+[*] `ls --size -h Data`
+[ ] `ls --sizeh Data`
+[ ] `ls --size-h Data`
+[*] `ls -h -s Data`
+[*] `ls -hs Data`
+[ ] `ls -hsize Data`
 
-
-There many other options associated to the `ls` command. One more is the `-l` (**l**ong listing format) to print with details the content of the `Data` directory:
-
-`ls -shl Data`
 
 ### Summary
 
 Here we learn that:
-- we can execute a command by typing their name (options and/or arguments) and pressing <kbd>enter</kbd>.
-- we can add options to modify the command behavior.
-- options start with a dash `-` (short form) or a double dash `--` (long form).
-- several options of the short form can be combined (without space and after a single dash).
-- they can be followed (or not) by an argument.
+- we can execute a command by typing their name (options and/or arguments) and pressing <kbd>enter</kbd>
+- we can add options to modify the command behavior
+- options start with a dash `-` (short form) or a double dash `--` (long form)
+- several options of the short form can be combined (without space and after a single dash)
+- command name can be followed (or not) by an argument
 
