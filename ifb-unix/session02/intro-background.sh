@@ -47,6 +47,8 @@ touch \
 
 ## home folder
 mkdir -p $HOME/test
+cat "first test" > $HOME/test/a_first_test_file.txt
+cat "second test" > $HOME/test/a_second_test_file.txt
 
 ## Starting point...
 cd $HOME
