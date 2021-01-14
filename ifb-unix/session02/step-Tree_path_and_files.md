@@ -3,8 +3,6 @@ The files in the system are arranged in a tree structure.
 In this structure, folders can be seen as branches and files as leaves. 
 Each file has a unique *path* in the tree structure when starting from the root. 
 
-![absolute and relative paths](./assets/absolute_and_relative_paths.png)
-
 To work with files or directories, it is necessary to access them via their paths. 
 Each folder name is separated by a `/` when you write the path. 
 The root of the tree structure is represented by the first `/` in path.

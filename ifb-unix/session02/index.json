@@ -18,20 +18,20 @@
       "text": "step-Relative_paths.md"
       },
       {
-      "title": "The HOME directory",
-      "text": "step-HOMEDir.md"
-      },
-      {
       "title": "Change directory",
       "text": "step-ChangeDir.md"
       },
       {
-      "title": "Move command",
-      "text": "step-MoveCommand.md"
+      "title": "The HOME directory",
+      "text": "step-HOMEDir.md"
       },
       {
       "title": "Create or remove directory",
       "text": "step-MakeDir.md"
+      },
+      {
+      "title": "Move command",
+      "text": "step-MoveCommand.md"
       }
     ],
     "intro": {

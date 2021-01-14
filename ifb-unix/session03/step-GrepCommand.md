@@ -3,7 +3,7 @@
 ### *grep*
 
 The `grep` command extracts lines that match a given pattern. 
-A pattern could be either a simple word or a more general expression, often termed **regular expression** (see here https://librarycarpentry.org/lc-data-intro/01-regular-expressions/ to learn more on them). 
+A pattern could be either a simple word or a more general expression, often termed **regular expression** (see [here](https://librarycarpentry.org/lc-data-intro/01-regular-expressions/) to learn more on them). 
 For instance:
 
 `grep nom_gene beautifulFriendLong.bed`

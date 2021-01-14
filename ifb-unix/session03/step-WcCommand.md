@@ -11,7 +11,7 @@ To output the number of lines, run `wc` with option _-l_:
 
 `wc -l beautifulFriend.bed`
 
->>How many lines has the `toto.bed` file ?
+>>How many lines has the `toto.bed` file?<<
 ( ) 1
 ( ) 2
 ( ) 3
