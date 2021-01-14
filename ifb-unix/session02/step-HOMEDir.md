@@ -1,14 +1,14 @@
 When used without argument, the `cd` command will set the current working directory to the HOME folder. 
 This HOME folder is the place where a user may store his files. 
 
-``
+```
 cd 
 pwd
 ```
 
-The symbol for the HOME folder is ~ (tilda). 
-This character can be accessed under a windows keyboard using ‘<alt-gr> + 2’. 
-Under OSX it may be accessed using ‘<option> + n’. 
+The symbol for the HOME folder is `~` (tilda). 
+This character can be accessed under a windows keyboard using <kbd>alt-gr</kbd> + <kbd>2</kbd>. 
+Under Mac OSX it may be accessed using <kbd>option</kbd> + <kbd>n</kbd>. 
 
 In the example below we successively go to the `/tmp` then `/root/test` folder
 
