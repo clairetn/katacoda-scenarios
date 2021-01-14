@@ -18,12 +18,12 @@
       "text": "step-Relative_paths.md"
       },
       {
-      "title": "Change directory",
-      "text": "step-ChangeDir.md"
-      },
-      {
       "title": "The HOME directory",
       "text": "step-HOMEDir.md"
+      },
+      {
+      "title": "Change directory",
+      "text": "step-ChangeDir.md"
       },
       {
       "title": "Move command",
