@@ -6,9 +6,9 @@
   "details": {
     "assets": {
        "host01": [
-           {"file": "gnagnagna.fasta", "target": "root", "chmod": "+r"},
-           {"file": "belebele.fasta", "target": "root", "chmod": "+r"},
-           {"file": "belebele.bed", "target": "root", "chmod": "+r"}
+           {"file": "gnagnagna.fasta", "target": "data", "chmod": "+r"},
+           {"file": "belebele.fasta", "target": "data", "chmod": "+r"},
+           {"file": "belebele.bed", "target": "data", "chmod": "+r"}
        ]
      },
     "steps": [
