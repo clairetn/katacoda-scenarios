@@ -51,7 +51,6 @@
     ],
     "intro": {
       "text": "intro.md",
-      "courseData": "intro-background.sh",
       "credits": ""
     },
     "finish": {
