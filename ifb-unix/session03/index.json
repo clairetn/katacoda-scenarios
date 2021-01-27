@@ -6,12 +6,11 @@
   "details": {
     "assets": {
        "host01": [
-	   {"file": "gnagnagna.fasta", "target": "root", "chmod": "+r"},
-	   {"file": "belebele.fasta", "target": "root", "chmod": "+r"},
-	   {"file": "belebele.bed", "target": "root", "chmod": "+r"}
+           {"file": "gnagnagna.fasta", "target": "root", "chmod": "+r"},
+           {"file": "belebele.fasta", "target": "root", "chmod": "+r"},
+           {"file": "belebele.bed", "target": "root", "chmod": "+r"}
        ]
-     }
-    },
+     },
     "steps": [
       {
       "title": "Manipulating data",
