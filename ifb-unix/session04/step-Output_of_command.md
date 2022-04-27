@@ -13,7 +13,7 @@ The result of the command `grep` is printed on the terminal.
 Icone “Vocabulary” : The standard output of a command is named **stdout**. 
 The schema illustrates the output stream of a command:
 
-![output printed on the screen](../assets/Stream_out.drawio.png)
+![output printed on the screen](../../assets/Stream_out.drawio.png)
 
 By default, **stdout** is set to screen print. 
 
@@ -27,7 +27,7 @@ This `>` is one of the **redirection** operators.
 
 The next figure illustrates the **stdout** redirection to a file:
 
-![output printed into a file](../assets/Stream_outfile.drawio.png)
+![output printed into a file](../../assets/Stream_outfile.drawio.png)
 
 
 Icone “Warning” : if the file already exists, it’s content will be replaced by the output of your command
