@@ -28,5 +28,5 @@ During the course, some bash language commands will be explained. They will be w
   
 <div class="hideshow"> << Hide | Show >> </div>
 <div class="exo">
-A test
+A toto test
 </div>
