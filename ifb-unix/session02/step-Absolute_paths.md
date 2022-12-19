@@ -30,9 +30,9 @@ Usually `hg` stands for **h**uman **g**enome and the number denotes the sequence
 **Question** Using the `ls` command, which repositories are the `/shared/bank/homo_sapiens` repository?
 
 - [ ] hg18
-- [] hg19
+- [ ] hg19
 - [ ] hg37
-- [] hg38
+- [ ] hg38
 
 <details>
 <summary>Answer</summary>
