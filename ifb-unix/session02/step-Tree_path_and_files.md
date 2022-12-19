@@ -38,11 +38,10 @@ Is the `pwd` command response:
 Look, it begins by a `/`
 
 <details>
-
 <summary>Answer</summary>
 
 You should obtain `/root` or something similare. <br />
 This path starts by a `/` meaning it is an absolute path.
 
-</details> 
+</details>
 
