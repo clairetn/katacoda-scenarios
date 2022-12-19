@@ -11,12 +11,12 @@ There are 2 ways to describe paths: **absolute and relative**.
 
 ![absolute and relative paths](./assets/absolute_and_relative_paths.png)
 
-# absolute path
+# Absolute path
 
 A path described from the root of the tree (ie. beginning by a `/`) is called an absolute path.
 This path is composed of all the names of the different folders from the root of the tree to the file. 
 
-# relative path and the working directory
+# Relative path and the working directory
 
 With relative path, one refer to a file or a directory relatively to the directory where one is currently located. 
 We call this directory the *current working directory*. 
@@ -24,13 +24,24 @@ A relative path starts from this current working directory, and gives the path f
 
 The path of the current working directory can be obtained using the `pwd` command (**p**rint **w**orking **d**irectory): 
 
-`pwd`
+```
+pwd
+```
 
->>Is the `pwd` command response:<<
-(*) an absolute path
-( ) a relative path
+Run the command `pwd` in the terminal (type `run` and then press <kbd>Enter</kbd>)
+
+Is the `pwd` command response:
+
+- [ ] an absolute path
+- [ ] a relative path
 
 Look, it begins by a `/`
 
+ <details>
+  <summary>Click here for answer</summary>
 
+    The answer should be `/root` or something similare.
+
+    This path starts by a `/` meaning it is an absolute path.
+</details> 
 
