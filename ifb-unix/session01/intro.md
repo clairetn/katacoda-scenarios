@@ -11,6 +11,7 @@
 .exo {
   display:none;
 }
+</style>
 
 
 
