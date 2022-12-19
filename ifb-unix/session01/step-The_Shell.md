@@ -28,6 +28,10 @@ To access these powerful features, you need to learn a new way of thinking and a
 (*) Yes!
 ( ) No..
 
+Q1. Are you ready to learn shell? (select "YES" to continue!)
+[] Yes!
+[] No..
+
 
 
 
