@@ -10,7 +10,7 @@ Q1. Is Bash a shell or a terminal ?
 
 - [ ] A. Shell
 - [ ] B. Terminal
-- [ ] 
+
 <details>
   <summary>Answer</summary>
   <p><b>A</b></p>
