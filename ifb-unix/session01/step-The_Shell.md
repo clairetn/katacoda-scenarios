@@ -1,3 +1,7 @@
+<script>
+console.log("toto")
+</script>
+
 <script type="">
     $(function() {
         $(".hideshow").click(function() {
