@@ -37,8 +37,8 @@ Is the `pwd` command response:
 
 Look, it begins by a `/`
 
- <details>
-  <summary>Click here to unveil the answer</summary>
+<details>
+  <summary>Answer</summary>
 
 You should obtain `/root` or something similare.
 
